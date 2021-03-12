@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://sevenvozm.vercel.app/"
 languageCode = "en"
-title = "Hargo | Hugo Ecommerce Site"
+title = "Prophat"
 theme = "hargo"
 summaryLength = "20"
 paginate = 10
