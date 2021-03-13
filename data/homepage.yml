@@ -8,17 +8,16 @@ banner:
 ########################## About ##############################
 about:
   enable : true
-  title : "About Our Product"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-          clita kasd gubergren,"
+  title : "Solicitud"
+  content : "Edad: 18+, Tiempo de aplicación: universal, Clasificación: farmacia, dermatocosmética, Propósito: hidratante, fortalecedor, calmante, Género: para mujeres, Tipo de piel: mixta, normal, sensible, Volumen: 40ml"
   image : "images/about.png"
 
 ########################### Advantage #########################
 advantage:
   enable : true
-  title : "Advantages Of Using <br> Our Product"
-  subtitle : "Lorem ipsum dolor sit amet, da decal consetetur<br> sadipscing elitr, sed diam nonumya eirmod"
+  title : "Descripción"
+  subtitle : "La crema hidratante Hydreane Legere de la marca francesa de cosmética médica La Roche-Posay está diseñada para reducir la sensibilidad de la piel y eliminar el problema de la deshidratación.
+La fórmula revolucionaria de la crema presentada contiene exclusivos agentes de hidrofijación que penetran en las capas más profundas de la epidermis y proporcionan un aumento en el nivel de saturación de humedad. Además, los hidrofixers en combinación con agua termal calman y relajan la piel, reducen su sensibilidad."
   image : "images/advantage.png"
   advantageList:
     # advantage list loop
